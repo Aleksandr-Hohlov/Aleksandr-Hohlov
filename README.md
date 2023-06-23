@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Aleksandr-Hohlov&style=flat&color=blue" alt="Счетчик просмотров профиля" height="30"/>
 </a>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/logo=telegram&logoColor=white" alt="telegram Badge"/>
-
-</div>
 ### Добрый день!
 ### Меня зовут Хохлов Александр,
 <br>
@@ -48,5 +44,5 @@
 &#9993; email: ads71622@gmail.com
 
 <a href="https://t.me/Alexsandr71522" target="_blank">
-  <img src="https://img.shields.io/badge/@Alexsandr71522-white?style=badge&logo=telegram&logoColor=blue" alt="telegram Badge"/> 
+  <img src="https://img.shields.io/badge/@Alexsandr71522-white?style=badge&logo=telegram&logoColor=blue" alt="telegram Badge" height="25"/> 
 </a>
