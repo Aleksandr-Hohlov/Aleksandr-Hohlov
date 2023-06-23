@@ -6,16 +6,23 @@
   <img src="https://komarev.com/ghpvc/?username=Aleksandr-Hohlov&style=flat&color=blue" alt="Счетчик просмотров профиля" height="30"/>
 </a>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/logo=telegram&logoColor=white" alt="telegram Badge"/>
+
+</div>
 ### Добрый день!
 ### Меня зовут Хохлов Александр,
 <br>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 Я начинающий Frontend-разработчик. Закончил обучение в Яндекс.Практикум, где освоил верстку,<br>
-получил знания по HTML, CSS, JS, React, и основы back-end с использованием Express.js и mongoDB.
+получил знания по HTML, CSS, JS, React, и основы back-end с использованием Express.js и mongoDB.<br>
+
+Сейчас осуществляю поиск и рассматриваю входящие предложения по трудоустройству в г. Москва.<br>
+Буду рад выполнить тестовое задание и получить обратную связь.
 <br><br>
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Technologies :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -40,4 +47,6 @@
 
 &#9993; email: ads71622@gmail.com
 
-
+<a href="t.me/@Alexsandr71522" target="_blank">
+  <img src="https://img.shields.io/badge/@Alexsandr71522-white?style=badge&logo=telegram&logoColor=blue" alt="telegram Badge"/> 
+</a>
