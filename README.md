@@ -47,6 +47,6 @@
 
 &#9993; email: ads71622@gmail.com
 
-<a href="t.me/@Alexsandr71522" target="_blank">
+<a href="https://t.me/Alexsandr71522" target="_blank">
   <img src="https://img.shields.io/badge/@Alexsandr71522-white?style=badge&logo=telegram&logoColor=blue" alt="telegram Badge"/> 
 </a>
